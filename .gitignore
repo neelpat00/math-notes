@@ -1,0 +1,10 @@
+# Obsidian workspace (personal settings)
+.obsidian/workspace.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
